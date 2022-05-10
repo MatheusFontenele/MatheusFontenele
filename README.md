@@ -23,16 +23,33 @@
    </a>
 </div>
   
-#### Favorite Technologies ⚡
+### Favorite Technologies ⚡
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-  [![Type Badge](https://img.shields.io/badge/-Type-007acc?style=for-the-badge&labelColor=black&logo=type&logoColor=007acc)](#) 
-  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-  <!--[![Java Badge](https://img.shields.io/badge/-Java-F0DB4F?style=for-the-badge&labelColor=black&logo=java&logoColor=F0DB4F)](#)-->
-  <!--[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,solidity,nodejs,react,nextjs,py,firebase,postgres,figma,vscode,git" />
+  </a>
+</p>
 
+### Find me on web 🌐
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=discord" />
+    
+  </a>
+  <a href="https://twitter.com/Matynele">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-fontenele-7433aa194/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/mf.20__/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+    
 
 <!---
 MatheusFontenele/MatheusFontenele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
