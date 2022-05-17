@@ -10,20 +10,20 @@
 - ⚡ Fun fact: I like to listen rap, classical music, gospel music, mc poze, kpop and pagode sometimes.
 
 <div>
-  <h3>My Github Streak 🔥</h3>
+  <h3>🔥 My Github Streak </h3>
   <a href="https://github.com/MatheusFontenele"><img alt="Matheus's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=MatheusFontenele&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /></a>
 </div>
 
 <div>
   <a href="https://github.com/MatheusFontenele"  align="center">
-     <h3>My Github Stats 📊<h3> 
+     <h3>📊 My Github Stats <h3> 
       <a href="https://github.com/MatheusFontenele"><img alt="Matheus's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MatheusFontenele&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
       <a href="https://github.com/MatheusFontenele"><img alt="Matheus's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFontenele&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       <br/>
    </a>
 </div>
   
-### Favorite Technologies ⚡
+<h3>⚡ Favorite Technologies</h3> 
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
@@ -33,7 +33,7 @@
   </a>
 </p>
 
-### Find me on web 🌐
+<h3>🌐 Find me on web</h3> 
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=discord" />
