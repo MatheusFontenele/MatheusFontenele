@@ -1,8 +1,6 @@
 <h2 >Hi 👋, I'm Matheus</h2>
 <h3 >I'm a passionate Developer from Brazil.</h3>
 
-<img src="https://github.com/MatheusF99/MatheusF99/blob/Workplace/assets/developer.svg" width="30%" align="right"/>
-
 - 🌱 I’m currently learning **Type💙**
 - 🤔 I’m looking for help with **NodeJS, Typescript and ReactJS** 
 - 📫 How to reach me: [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMatynele)](https://twitter.com/Matynele) | [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Fontenele-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-fontenele-7433aa194/)](https://www.linkedin.com/in/matheus-fontenele-7433aa194/) |
