@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I like to listen rap, classical music, gospel music, mc poze, kpop and pagode sometimes.
 
 <div>
-  <h3>🔥 My Github Streak </h3>
+  <h3>🔥 Github Streak </h3>
   <a href="https://github.com/MatheusFontenele"><img alt="Matheus's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=MatheusFontenele&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /></a>
 </div>
 
